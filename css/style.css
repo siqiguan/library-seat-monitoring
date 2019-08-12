@@ -38,10 +38,15 @@ li{
   margin:auto 20px;
 }
 ul{
-  margin-right: 30px;
+  margin-right: 25px;
+  padding-left: 15px;
+
 }
 .list{
   padding-right: 10px;
+}
+.li-button{
+  margin-left: 20px;
 }
 a{
   color:#11999E;
